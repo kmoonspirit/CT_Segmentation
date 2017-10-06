@@ -1,0 +1,6 @@
+This project is for testing the UNet segmentation on the medical image.
+Tools: Keras, Tensorflow, Cuda 8.0, CuNN 6.0
+Environment: Ubuntu 16.04
+Author: Xingyu Wu, University of Pennsylvania
+Email: xingyu.wu90@gmail.com
+
